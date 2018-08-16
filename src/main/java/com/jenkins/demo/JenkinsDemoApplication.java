@@ -18,7 +18,7 @@ public class JenkinsDemoApplication {
         @Override
         public void run(String... args) throws Exception {
             System.out.println("test jenkins demo!123");
-            System.out.println("test jenkins demo!");
+            System.out.println("test jenkins demo!456");
         }
     }
 }
